@@ -1,0 +1,195 @@
+{
+ "id": "001-planter",
+ "series": "Build for $25 • Sell for $70",
+ "accent": "#F2A541",
+ "parts": [
+  {
+   "p": [
+    0,
+    0,
+    0
+   ],
+   "s": [
+    24,
+    0.625,
+    5.5
+   ]
+  },
+  {
+   "p": [
+    0,
+    0,
+    5.5
+   ],
+   "s": [
+    24,
+    0.625,
+    5.5
+   ]
+  },
+  {
+   "p": [
+    0,
+    10.625,
+    0
+   ],
+   "s": [
+    24,
+    0.625,
+    5.5
+   ]
+  },
+  {
+   "p": [
+    0,
+    10.625,
+    5.5
+   ],
+   "s": [
+    24,
+    0.625,
+    5.5
+   ],
+   "hl": true
+  },
+  {
+   "p": [
+    0,
+    0.625,
+    0
+   ],
+   "s": [
+    0.625,
+    10,
+    5.5
+   ]
+  },
+  {
+   "p": [
+    0,
+    0.625,
+    5.5
+   ],
+   "s": [
+    0.625,
+    10,
+    5.5
+   ]
+  },
+  {
+   "p": [
+    23.375,
+    0.625,
+    0
+   ],
+   "s": [
+    0.625,
+    10,
+    5.5
+   ]
+  },
+  {
+   "p": [
+    23.375,
+    0.625,
+    5.5
+   ],
+   "s": [
+    0.625,
+    10,
+    5.5
+   ]
+  }
+ ],
+ "slides": [
+  {
+   "type": "hook",
+   "title": "Built for $25. Sells for $70.",
+   "sub": "Cedar planter box • one afternoon",
+   "dur": 3.0
+  },
+  {
+   "type": "list",
+   "heading": "What it costs",
+   "items": [
+    [
+     "3 cedar fence pickets (6 ft)",
+     "$12"
+    ],
+    [
+     "1 board 2×2 (8 ft)",
+     "$4"
+    ],
+    [
+     "Exterior screws 1¼\"",
+     "$7"
+    ],
+    [
+     "Landscape fabric liner",
+     "$2"
+    ]
+   ],
+   "total": "TOTAL ≈ $25",
+   "note": "Typical US store prices. Varies by area.",
+   "dur": 3.6
+  },
+  {
+   "type": "cutlist",
+   "heading": "Cut list",
+   "items": [
+    [
+     4,
+     "Side boards (picket)",
+     "24\"",
+     24
+    ],
+    [
+     4,
+     "End boards (picket)",
+     "10\"",
+     10
+    ],
+    [
+     3,
+     "Bottom slats (picket)",
+     "10\"",
+     10
+    ],
+    [
+     4,
+     "Corner posts (2×2)",
+     "11\"",
+     11
+    ],
+    [
+     2,
+     "Bottom cleats (2×2)",
+     "19¾\"",
+     19.75
+    ]
+   ],
+   "dur": 4.0
+  },
+  {
+   "type": "steps",
+   "heading": "Build it",
+   "items": [
+    "Screw 2 end boards to 2 posts. Make both ends.",
+    "Attach the side boards to the ends. Pre-drill every hole.",
+    "Screw the cleats inside, along the bottom, between the posts.",
+    "Drop in the slats with 1\" gaps. Line with fabric."
+   ],
+   "tip": "Leave cedar unfinished. It turns silver and resists rot on its own.",
+   "dur": 4.6
+  },
+  {
+   "type": "cta",
+   "title": "Want the full plan?",
+   "sub": "Thousands of step-by-step plans with cut lists",
+   "button": "PLANS → LINK IN CAPTION",
+   "next": "Follow for Build #2 tomorrow",
+   "dur": 3.2
+  }
+ ],
+ "caption": "Built for $25, sells for $70 🌿 Cedar planter box, one afternoon. Save this for the weekend! #woodworking #diy #woodworkingprojects #sidehustle #planterbox 🪵 Full woodworking plans → https://f.mtr.cool/busqrfcvqk"
+}
