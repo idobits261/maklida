@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Post woodshmood videos through the SECOND Buffer account's GraphQL API.
 
-Needs env var BUFFER_WOOD_KEY (set by Ido in the cloud environment settings; never commit it).
+Auth: Network secret for api.buffer.com in the cloud environment (proxy injects it). Never commit a key.
 
   python3 buffer_post.py channels
   python3 buffer_post.py post <post_json> <video_url> <dueAt ISO with offset>
@@ -32,11 +32,12 @@ def lit(v):
 
 
 def gql(query):
-    key = os.environ.get("BUFFER_WOOD_KEY")
-    if not key:
-        sys.exit("BUFFER_WOOD_KEY is not set. Ido must add it in the cloud environment settings.")
-    req = urllib.request.Request(API, data=json.dumps({"query": query}).encode(),
-                                 headers={"Content-Type": "application/json", "Authorization": "Bearer " + key})
+    # The key is a "Network secret" in the cloud environment: the proxy adds the Authorization header
+    # for api.buffer.com, so the code never sees it. BUFFER_WOOD_KEY is only a local fallback.
+    headers = {"Content-Type": "application/json"}
+    if os.environ.get("BUFFER_WOOD_KEY"):
+        headers["Authorization"] = "Bearer " + os.environ["BUFFER_WOOD_KEY"]
+    req = urllib.request.Request(API, data=json.dumps({"query": query}).encode(), headers=headers)
     with urllib.request.urlopen(req, timeout=60) as r:
         out = json.load(r)
     if out.get("errors"):
