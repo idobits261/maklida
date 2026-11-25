@@ -26,7 +26,7 @@ _FACES = "".join(
 CSS = _FACES + """
 *{box-sizing:border-box;margin:0;padding:0}
 html,body{width:1080px;height:1920px;background:#000;font-family:HeeboHe,HeeboLa,'Noto Color Emoji',sans-serif;color:#e7ecef;overflow:hidden}
-.phone{position:absolute;left:0;top:96px;width:1080px;height:1500px;background:#0c1317;display:flex;flex-direction:column;direction:rtl}
+.phone{position:absolute;left:50px;top:250px;width:1080px;height:1671px;transform-origin:top left;transform:scale(.778);border-radius:44px;overflow:hidden;background:#0c1317;display:flex;flex-direction:column;direction:rtl}
 .status{height:74px;display:flex;align-items:center;justify-content:space-between;padding:0 44px;font-size:32px;font-weight:500;color:#dfe5e8;direction:ltr}
 .status .r{display:flex;gap:14px;align-items:center}
 .bars{display:flex;gap:4px;align-items:flex-end;height:26px}.bars i{width:7px;background:#dfe5e8;border-radius:2px}
@@ -55,7 +55,7 @@ html,body{width:1080px;height:1920px;background:#000;font-family:HeeboHe,HeeboLa
 if WIDE:
     CSS += """
 html,body{width:1920px;height:1080px;background:radial-gradient(ellipse at 50% 40%,#12211f 0%,#060a0c 60%,#000 100%)}
-.phone{left:50%;top:0;transform-origin:top center;transform:translateX(-50%) scale(.72);box-shadow:0 0 120px rgba(0,0,0,.8)}
+.phone{left:50%;top:0;height:1500px;border-radius:0;transform-origin:top center;transform:translateX(-50%) scale(.72);box-shadow:0 0 120px rgba(0,0,0,.8)}
 .card{background:#000}
 .side{position:absolute;top:0;height:1080px;width:571px;display:flex;flex-direction:column;justify-content:center;align-items:center;gap:22px;direction:rtl;text-align:center}
 .side.r{right:0}.side.l{left:0}
