@@ -4,7 +4,7 @@
 Auth: Network secret for api.buffer.com in the cloud environment (proxy injects it). Never commit a key.
 
   python3 buffer_post.py channels
-  python3 buffer_post.py post <post_json> <video_url> <dueAt ISO with offset>
+  python3 buffer_post.py post <post_json> <video_url> <dueAt ISO with offset | now>
 """
 import json, os, sys, urllib.request
 
@@ -63,8 +63,10 @@ def post(spec_path, video_url, due_at):
     for ch in channels():
         svc = ch["service"]
         inp = {"text": caption, "channelId": ch["id"], "schedulingType": Enum("automatic"),
-               "mode": Enum("customScheduled"), "dueAt": due_at,
+               "mode": Enum("shareNow") if due_at == "now" else Enum("customScheduled"),
                "assets": [{"video": {"url": video_url, "metadata": {"thumbnailOffset": 500}}}]}
+        if due_at != "now":
+            inp["dueAt"] = due_at
         if svc == "tiktok":
             inp["metadata"] = {"tiktok": {"title": spec.get("title", spec["slides"][0].get("title", ""))[:90]}}
         elif svc == "instagram":
