@@ -1,0 +1,14 @@
+{
+ "id": "003-345-square",
+ "series": "1% Know This",
+ "accent": "#4CC9F0",
+ "title": "Check any corner for square with just a tape measure (3-4-5 rule)",
+ "slides": [
+  {"type": "hook", "title": "No square? Use your tape measure.", "sub": "The 3-4-5 rule for perfect corners", "dur": 3.0},
+  {"type": "text", "label": "The trick", "heading": "3 and 4 make a perfect 5", "body": "From the corner, mark 3\" along one side and 4\" along the other. If the two marks are exactly 5\" apart, the corner is 90°.", "dur": 4.0},
+  {"type": "steps", "heading": "Scale it up", "items": ["Small box or drawer: 3\", 4\", 5\".", "Bigger frame: double it. 6\", 8\", 10\".", "Deck or shed floor: 3 ft, 4 ft, 5 ft."], "tip": "Bigger numbers give a more accurate check.", "dur": 4.0},
+  {"type": "text", "label": "Bonus check", "heading": "Measure both diagonals", "body": "On any rectangle, measure corner to corner both ways. Same number = square. Not the same? Gently push the two corners of the longer diagonal toward each other until they match.", "dur": 4.4},
+  {"type": "cta", "title": "Want the full plans?", "sub": "Thousands of step-by-step plans with cut lists", "button": "PLANS → LINK IN CAPTION", "next": "Follow for more 1% tricks", "dur": 3.0}
+ ],
+ "caption": "No square? Your tape measure is enough 📐 The 3-4-5 rule gives you a true 90° corner. Save this for the weekend! #woodworking #diy #woodworkingtips #beginnerwoodworking #carpentry 🪵 Full woodworking plans → https://f.mtr.cool/busqrfcvqk"
+}

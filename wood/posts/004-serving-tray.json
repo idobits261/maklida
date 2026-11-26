@@ -1,0 +1,23 @@
+{
+ "id": "004-serving-tray",
+ "series": "Build for $26 • Sell for $55",
+ "accent": "#F2A541",
+ "title": "This $26 pine serving tray sells for around $55",
+ "parts": [
+  {"p": [0, 0, 0], "s": [0.75, 12, 3.5]},
+  {"p": [18.75, 0, 0], "s": [0.75, 12, 3.5], "hl": true},
+  {"p": [0.75, 0, 0], "s": [18, 0.75, 2.5]},
+  {"p": [0.75, 11.25, 0], "s": [18, 0.75, 2.5]},
+  {"p": [0.75, 0.75, 0], "s": [18, 3.5, 0.75]},
+  {"p": [0.75, 4.25, 0], "s": [18, 3.5, 0.75]},
+  {"p": [0.75, 7.75, 0], "s": [18, 3.5, 0.75]}
+ ],
+ "slides": [
+  {"type": "hook", "title": "This $26 tray sells for $55", "sub": "Pine serving tray with handles • 2 hours", "dur": 3.0},
+  {"type": "list", "heading": "What it costs", "items": [["1 pine board 1×4 (8 ft)", "$10"], ["1 pine board 1×3 (6 ft)", "$5"], ["Wood glue", "$4"], ["1¼\" wood screws", "$4"], ["Food-safe mineral oil", "$3"]], "total": "TOTAL ≈ $26", "note": "Typical US prices. Varies by area.", "dur": 3.6},
+  {"type": "cutlist", "heading": "Cut list", "items": [[3, "Bottom slats (1×4)", "18\"", 18], [2, "Sides (1×3)", "18\"", 18], [2, "Handle ends (1×4)", "12\"", 12]], "note": "1×4: 78\" of 96\". 1×3: 36\" of 72\".", "dur": 3.8},
+  {"type": "steps", "heading": "Build it", "items": ["Handles: drill two 1\" holes 3\" apart in each end, jigsaw between.", "Glue and screw the sides to the outer slats.", "Screw the ends on. Pre-drill every hole.", "Sand to 180 grit. Wipe on mineral oil."], "tip": "Clamp the board before drilling or cutting. Keep fingers clear of the jigsaw.", "dur": 4.6},
+  {"type": "cta", "title": "Want the full plan?", "sub": "Thousands of step-by-step plans with cut lists", "button": "PLANS → LINK IN CAPTION", "next": "Follow for Build #3", "dur": 3.0}
+ ],
+ "caption": "A $26 tray that sells for around $55 ☕ Pine serving tray with handles, done in an afternoon. Save this for the weekend! #woodworking #diy #woodworkingprojects #sidehustle #servingtray 🪵 Full woodworking plans → https://f.mtr.cool/busqrfcvqk"
+}

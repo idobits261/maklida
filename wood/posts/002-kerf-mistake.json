@@ -1,0 +1,14 @@
+{
+ "id": "002-kerf-mistake",
+ "series": "Mistake #1",
+ "accent": "#E4572E",
+ "title": "Mistake #1: why your boards keep coming out short",
+ "slides": [
+  {"type": "hook", "title": "Your boards keep coming out short?", "sub": "Every cut eats about ⅛\" of wood", "dur": 3.0},
+  {"type": "text", "label": "Mistake #1", "heading": "Cutting down the middle of the line", "body": "A typical saw blade removes a slot about ⅛\" wide. Cut on the center of your pencil line and part of that slot comes out of the piece you wanted. Do it on every part and the box won't close.", "dur": 4.2},
+  {"type": "text", "label": "The fix", "heading": "Cut on the waste side", "body": "Put an X on the scrap piece. Line up the blade on the X side of the line, so the line is still on your part after the cut.", "fix": "Mark the X before every cut.", "dur": 4.0},
+  {"type": "steps", "heading": "3 quick checks", "items": ["Use the same tape measure for every part.", "Cut one piece, measure it, then cut the rest.", "Same-length parts? Clamp a stop block. No new marks."], "tip": "Let the blade stop fully before you lift it or grab the offcut.", "dur": 4.2},
+  {"type": "cta", "title": "Want the full plans?", "sub": "Thousands of step-by-step plans with cut lists", "button": "PLANS → LINK IN CAPTION", "next": "Follow for Mistake #2", "dur": 3.0}
+ ],
+ "caption": "Boards coming out short? It's the blade, not your tape 📏 Cut on the waste side of the line. Save this for the weekend! #woodworking #diy #beginnerwoodworking #woodworkingtips #woodshop 🪵 Full woodworking plans → https://f.mtr.cool/busqrfcvqk"
+}
