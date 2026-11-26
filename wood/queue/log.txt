@@ -12,3 +12,45 @@
  ]
 ]
 
+[2026-11-26 11:21 UTC] 002-kerf-mistake.json due=2026-11-26T16:00:00+02:00 exit=0
+[
+ [
+  "tiktok",
+  {
+   "post": {
+    "id": "6b08163c30d46b36a99c007e",
+    "status": "scheduled",
+    "dueAt": "2026-11-26T14:00:00.000Z"
+   }
+  }
+ ]
+]
+
+[2026-11-26 11:21 UTC] 003-345-square.json due=2026-11-26T21:00:00+02:00 exit=0
+[
+ [
+  "tiktok",
+  {
+   "post": {
+    "id": "6b08163d2c607bdcad552702",
+    "status": "scheduled",
+    "dueAt": "2026-11-26T19:00:00.000Z"
+   }
+  }
+ ]
+]
+
+[2026-11-26 11:21 UTC] 004-serving-tray.json due=2026-11-27T02:00:00+02:00 exit=0
+[
+ [
+  "tiktok",
+  {
+   "post": {
+    "id": "6b08163ebb834d5e8e9eba9a",
+    "status": "scheduled",
+    "dueAt": "2026-11-27T00:00:00.000Z"
+   }
+  }
+ ]
+]
+
