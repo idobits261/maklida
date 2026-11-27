@@ -1,0 +1,14 @@
+{
+ "id": "006-raise-grain",
+ "series": "1% Know This",
+ "accent": "#4CC9F0",
+ "title": "Why your finish feels rough after one coat (and the water trick that fixes it)",
+ "slides": [
+  {"type": "hook", "title": "Sanded smooth. Finished rough?", "sub": "Raise the grain before the first coat", "dur": 3.0},
+  {"type": "text", "label": "Why it happens", "heading": "Water lifts the fibers", "body": "Sanding flattens tiny wood fibers. Water-based stain or finish makes them swell and stand back up, so the surface feels fuzzy after the first coat.", "dur": 4.2},
+  {"type": "steps", "heading": "The trick", "items": ["Wipe the sanded wood with a damp cloth.", "Let it dry completely, about an hour.", "Hand sand lightly with 220 grit, with the grain."], "tip": "Wipe off all the dust before you finish.", "dur": 4.2},
+  {"type": "text", "label": "Result", "heading": "The fuzz is already gone", "body": "The loose fibers have stood up and been sanded off. Your stain or finish goes on smooth instead of rough.", "fix": "Best before water-based stain, poly or paint.", "dur": 4.0},
+  {"type": "cta", "title": "Want the full plans?", "sub": "Thousands of step-by-step plans with cut lists", "button": "PLANS → LINK IN CAPTION", "next": "Follow for more 1% tricks", "dur": 3.0}
+ ],
+ "caption": "Smooth wood turned fuzzy after finishing? 💧 Wet it, let it dry, sand once more before the first coat. Save this for the weekend! #woodworking #diy #woodfinishing #beginnerwoodworking #woodworkingtips 🪵 Full woodworking plans → https://f.mtr.cool/busqrfcvqk"
+}

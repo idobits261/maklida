@@ -1,0 +1,25 @@
+{
+ "id": "007-pine-crate",
+ "series": "Build for $41 • Sell for $60",
+ "accent": "#F2A541",
+ "title": "A $41 pine storage crate with handholds that sells for around $60",
+ "parts": [
+  {"p": [0, 0, 0], "s": [18, 3.5, 0.75]},
+  {"p": [0, 4.625, 0], "s": [18, 3.5, 0.75]},
+  {"p": [0, 9.25, 0], "s": [18, 3.5, 0.75]},
+  {"p": [0, 0.75, 0.75], "s": [0.75, 11.25, 12]},
+  {"p": [17.25, 0.75, 0.75], "s": [0.75, 11.25, 12], "hl": true},
+  {"p": [0, 0, 0.75], "s": [18, 0.75, 3.5]},
+  {"p": [0, 0, 9.25], "s": [18, 0.75, 3.5]},
+  {"p": [0, 12, 0.75], "s": [18, 0.75, 3.5]},
+  {"p": [0, 12, 9.25], "s": [18, 0.75, 3.5]}
+ ],
+ "slides": [
+  {"type": "hook", "title": "$41 in pine. $60 at the craft fair.", "sub": "Storage crate • cut-out handholds", "dur": 3.0},
+  {"type": "list", "heading": "What it costs", "items": [["1 pine board 1×12 (4 ft)", "$16"], ["1 pine board 1×4 (8 ft)", "$10"], ["1 pine board 1×4 (6 ft)", "$7"], ["Wood glue", "$4"], ["1¼\" wood screws", "$4"]], "total": "TOTAL ≈ $41", "note": "Typical US prices. Varies by area.", "dur": 3.6},
+  {"type": "cutlist", "heading": "Cut list", "items": [[2, "Ends (1×12)", "12\"", 12], [4, "Side slats (1×4)", "18\"", 18], [3, "Bottom slats (1×4)", "18\"", 18]], "note": "1×12: 24\" of 48\". 1×4: 5 slats from 8 ft, 2 from 6 ft.", "dur": 3.8},
+  {"type": "steps", "heading": "Build it", "items": ["Handholds: two 1\" holes 3½\" apart, 2\" from the top of each end. Jigsaw between.", "Glue and screw 2 side slats per side: one flush at the top, one at the bottom.", "Screw the 3 bottom slats to the ends, evenly spaced.", "Pre-drill every hole. Sand to 150 grit."], "tip": "Clamp the end before drilling or cutting. Keep fingers clear of the jigsaw blade.", "dur": 4.8},
+  {"type": "cta", "title": "Want the full plan?", "sub": "Thousands of step-by-step plans with cut lists", "button": "PLANS → LINK IN CAPTION", "next": "Follow for Build #4", "dur": 3.0}
+ ],
+ "caption": "$41 of pine, a crate that sells for around $60 📦 Simple storage crate with cut-out handholds. Save this for the weekend! #woodworking #diy #woodworkingprojects #sidehustle #woodcrate 🪵 Full woodworking plans → https://f.mtr.cool/busqrfcvqk"
+}

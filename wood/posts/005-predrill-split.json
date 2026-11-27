@@ -1,0 +1,14 @@
+{
+ "id": "005-predrill-split",
+ "series": "Mistake #2",
+ "accent": "#E4572E",
+ "title": "Mistake #2: why your screws keep splitting the wood",
+ "slides": [
+  {"type": "hook", "title": "Why did that board just crack?", "sub": "One skipped step splits the wood", "dur": 3.0},
+  {"type": "text", "label": "Mistake #2", "heading": "Driving screws without a pilot hole", "body": "A screw pushes wood fibers apart as it goes in. Close to the end or edge of a board there isn't enough wood to hold that pressure, so it splits. Hardwood and thin trim split even faster.", "dur": 4.2},
+  {"type": "text", "label": "The fix", "heading": "Pre-drill a pilot hole", "body": "Drill a hole about the size of the screw's solid core, not the threads. The threads still bite, but the wood has room. Add a countersink so the head sits flush.", "fix": "Hold the bit next to the screw: you should still see the threads.", "dur": 4.4},
+  {"type": "steps", "heading": "3 quick checks", "items": ["Stay at least 1\" from the end of the board.", "Clamp the parts so they can't shift.", "Drive slowly. Stop when the head is flush."], "tip": "Wear eye protection when drilling.", "dur": 4.0},
+  {"type": "cta", "title": "Want the full plans?", "sub": "Thousands of step-by-step plans with cut lists", "button": "PLANS → LINK IN CAPTION", "next": "Follow for Mistake #3", "dur": 3.0}
+ ],
+ "caption": "Board cracked when you drove the screw? 🔩 A pilot hole sized to the screw's core stops the split. Save this for the weekend! #woodworking #diy #beginnerwoodworking #woodworkingtips #woodshop 🪵 Full woodworking plans → https://f.mtr.cool/busqrfcvqk"
+}
