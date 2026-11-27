@@ -54,3 +54,45 @@
  ]
 ]
 
+[2026-11-27 11:21 UTC] 005-predrill-split.json due=2026-11-27T16:00:00+02:00 exit=0
+[
+ [
+  "tiktok",
+  {
+   "post": {
+    "id": "6b0967a3776ce212760fd089",
+    "status": "scheduled",
+    "dueAt": "2026-11-27T14:00:00.000Z"
+   }
+  }
+ ]
+]
+
+[2026-11-27 11:21 UTC] 006-raise-grain.json due=2026-11-27T21:00:00+02:00 exit=0
+[
+ [
+  "tiktok",
+  {
+   "post": {
+    "id": "6b0967a4776ce212760fd0c8",
+    "status": "scheduled",
+    "dueAt": "2026-11-27T19:00:00.000Z"
+   }
+  }
+ ]
+]
+
+[2026-11-27 11:21 UTC] 007-pine-crate.json due=2026-11-28T02:00:00+02:00 exit=0
+[
+ [
+  "tiktok",
+  {
+   "post": {
+    "id": "6b0967a51fd46e62e73ac270",
+    "status": "scheduled",
+    "dueAt": "2026-11-28T00:00:00.000Z"
+   }
+  }
+ ]
+]
+
