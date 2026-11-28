@@ -1,0 +1,14 @@
+{
+ "id": "008-glue-squeeze-out",
+ "series": "Mistake #3",
+ "accent": "#E4572E",
+ "title": "Mistake #3: why your stain leaves light blotches next to every joint",
+ "slides": [
+  {"type": "hook", "title": "Light patches by every joint?", "sub": "It's the glue you wiped off", "dur": 3.0},
+  {"type": "text", "label": "Mistake #3", "heading": "Wiping wet glue with a rag", "body": "A wet rag doesn't remove squeeze-out. It thins the glue and pushes it into the open grain around the joint. Dried glue seals the wood, so stain can't soak in there and those spots stay light.", "dur": 4.4},
+  {"type": "text", "label": "The fix", "heading": "Let it skin over, then scrape", "body": "Wait until the squeeze-out turns rubbery, usually 20 to 30 minutes. Lift it off in one strip with a putty knife or a sharp chisel.", "fix": "Not sure? Wipe a test board with stain before the real piece.", "dur": 4.4},
+  {"type": "steps", "heading": "3 quick checks", "items": ["Dry fit first so you know how much glue it needs.", "Use a thin, even bead, not a thick one.", "Sand the joint area before you stain."], "tip": "Push the chisel away from your hand, never toward it.", "dur": 4.0},
+  {"type": "cta", "title": "Want the full plans?", "sub": "Thousands of step-by-step plans with cut lists", "button": "PLANS → LINK IN CAPTION", "next": "Follow for Mistake #4", "dur": 3.0}
+ ],
+ "caption": "Stain came out blotchy right next to the joints? 🧴 Let the glue go rubbery and scrape it, don't wipe it. Save this for the weekend! #woodworking #diy #beginnerwoodworking #woodfinishing #woodworkingtips 🪵 Full woodworking plans → https://f.mtr.cool/busqrfcvqk"
+}

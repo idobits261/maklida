@@ -5,18 +5,18 @@ Followers 31 · Likes 119 · ~15 manual carousel posts, best 1,919 views.
 Goal: compare followers on 26.12.2026.
 
 ## Counters
-- Next post number: 008
-- Next Mistake #: 3
-- Last series used: build (007)
+- Next post number: 011
+- Next Mistake #: 4
+- Last series used: build (010)
 - Weekly "5 Projects" post: Sundays, first slot
 
 ## Pending (rendered, not yet scheduled)
 - (none)
 
 ## Used (never repeat)
-- Projects: cedar planter box (001), pine serving tray with handles (004), pine storage crate with handholds (007)
-- Mistakes: #1 cutting on the line / kerf (002), #2 no pilot hole → split (005)
-- Tricks: 3-4-5 rule + diagonals for square (003), raise the grain before water-based finish (006)
+- Projects: cedar planter box (001), pine serving tray with handles (004), pine storage crate with handholds (007), pine wall cubby shelf (010)
+- Mistakes: #1 cutting on the line / kerf (002), #2 no pilot hole → split (005), #3 wiping wet glue squeeze-out → stain blotches (008)
+- Tricks: 3-4-5 rule + diagonals for square (003), raise the grain before water-based finish (006), pencil lines to sand a panel flat (009)
 
 ## Log
 - 26.11.2026: pipeline set up. 001-planter rendered (sample approved by Ido). Waiting for BUFFER_WOOD_KEY.

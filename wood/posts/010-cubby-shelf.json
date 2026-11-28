@@ -1,0 +1,21 @@
+{
+ "id": "010-cubby-shelf",
+ "series": "Build for $29 • Sell for $50",
+ "accent": "#F2A541",
+ "title": "Turn one $16 pine board into a wall cubby shelf that sells for around $50",
+ "parts": [
+  {"p": [0, 0, 0], "s": [24, 7.25, 0.75]},
+  {"p": [0, 0, 9.25], "s": [24, 7.25, 0.75]},
+  {"p": [0, 0, 0.75], "s": [0.75, 7.25, 8.5]},
+  {"p": [23.25, 0, 0.75], "s": [0.75, 7.25, 8.5]},
+  {"p": [11.625, 0, 0.75], "s": [0.75, 7.25, 8.5], "hl": true}
+ ],
+ "slides": [
+  {"type": "hook", "title": "One 8 ft board. Two cubbies.", "sub": "Wall shelf • ~$29 to build, ~$50 to sell", "dur": 3.0},
+  {"type": "list", "heading": "What it costs", "items": [["1 pine board 1×8 (8 ft)", "$16"], ["Wood glue", "$4"], ["1¼\" wood screws", "$4"], ["2 D-ring hangers", "$5"]], "total": "TOTAL ≈ $29", "note": "Typical US prices. Varies by area.", "dur": 3.6},
+  {"type": "cutlist", "heading": "Cut list", "items": [[2, "Top + bottom (1×8)", "24\"", 24], [2, "Sides (1×8)", "8½\"", 8.5], [1, "Divider (1×8)", "8½\"", 8.5]], "note": "1×8: 73½\" of 96\". Shelf is 24\" × 10\" × 7¼\".", "dur": 3.8},
+  {"type": "steps", "heading": "Build it", "items": ["Glue and screw the 2 sides between the top and bottom, flush at the ends.", "Mark the center at 12\". Glue and screw the divider there.", "Pre-drill and countersink every screw. Sand to 150 grit.", "Add 2 D-rings on the back and hang into studs."], "tip": "Clamp short pieces when cutting. Never hold an 8½\" part by hand at the saw.", "dur": 4.8},
+  {"type": "cta", "title": "Want the full plan?", "sub": "Thousands of step-by-step plans with cut lists", "button": "PLANS → LINK IN CAPTION", "next": "Follow for Build #5", "dur": 3.0}
+ ],
+ "caption": "One 8 ft pine board becomes a wall cubby shelf 🪚 About $29 in materials, sells for around $50. Save this for the weekend! #woodworking #diy #woodworkingprojects #sidehustle #shelfdecor 🪵 Full woodworking plans → https://f.mtr.cool/busqrfcvqk"
+}

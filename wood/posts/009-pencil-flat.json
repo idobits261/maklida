@@ -1,0 +1,14 @@
+{
+ "id": "009-pencil-flat",
+ "series": "1% Know This",
+ "accent": "#4CC9F0",
+ "title": "The pencil trick that shows exactly where to sand a glued-up panel flat",
+ "slides": [
+  {"type": "hook", "title": "Is it flat, or does it just look flat?", "sub": "A pencil tells you the truth", "dur": 3.0},
+  {"type": "text", "label": "The problem", "heading": "You can't see high spots", "body": "After a glue-up, boards sit a hair higher or lower than their neighbors. Sand by feel and you dig dips in some places and miss ridges in others.", "dur": 4.2},
+  {"type": "steps", "heading": "The trick", "items": ["Scribble light pencil lines across the whole surface.", "Sand with a flat block or sander, keep it moving.", "Lines gone = flat. Lines left = low spots."], "tip": "Wear a dust mask and eye protection when sanding.", "dur": 4.2},
+  {"type": "text", "label": "Why it works", "heading": "High spots lose the lines first", "body": "The sander only touches the high spots at first, so their pencil disappears first. Keep going until every line is gone, then redo it with each finer grit.", "fix": "Redraw the lines every time you change grit.", "dur": 4.2},
+  {"type": "cta", "title": "Want the full plans?", "sub": "Thousands of step-by-step plans with cut lists", "button": "PLANS → LINK IN CAPTION", "next": "Follow for more 1% tricks", "dur": 3.0}
+ ],
+ "caption": "Can't tell if your tabletop is really flat? ✏️ Pencil lines show every high and low spot while you sand. Save this for the weekend! #woodworking #diy #sanding #beginnerwoodworking #woodworkingtips 🪵 Full woodworking plans → https://f.mtr.cool/busqrfcvqk"
+}
