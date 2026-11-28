@@ -26,3 +26,4 @@ Goal: compare followers on 26.12.2026.
 - 26.11.2026 10:39: posting moved to the GitHub Action queue (repo secret). 001-planter sent to Buffer via the Action (exit=0, status sending) → TikTok.
 - 26.11.2026 13:20 (daily run): 002-kerf-mistake (Mistake #1) 16:00, 003-345-square (1% Know This) 21:00, 004-serving-tray (Build) 02:00 27.11 — all via GitHub Action, exit=0, Buffer status scheduled → TikTok.
 - 27.11.2026 13:20 (daily run): 005-predrill-split (Mistake #2) 16:00, 006-raise-grain (1% Know This) 21:00, 007-pine-crate (Build) 02:00 28.11 — all via GitHub Action, exit=0, Buffer status scheduled → TikTok.
+- 28.11.2026 13:20 (daily run): 008-glue-squeeze-out (Mistake #3) 16:00, 009-pencil-flat (1% Know This) 21:00, 010-cubby-shelf (Build) 02:00 29.11 — all via GitHub Action, exit=0, Buffer status scheduled → TikTok. Next run (Sunday): first slot = weekly 5 Projects.
